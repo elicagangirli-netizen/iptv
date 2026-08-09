@@ -1,0 +1,236 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="AyazTV.az@SD",Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="AzTV.az@SD",Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="AzTV.az@SD",Az TV
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 group-title="Türk" tvg-id="AzStarTV.ca@SD",Azstar TV HD (1080p)
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="BakuTV.az@SD",Baku TV (720p)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="BakuTV.az@SD",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Futbol/İdman" tvg-id="CBCSport.az@HD",CBC Sport HD [Geo-blocked]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="IctimaiTV.az@SD",Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="KapazTV.az@SD",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="MedeniyyetTV.az@SD",Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="",MTV TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="XezerTV.az@SD",Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="KNMusicTV.az@SD",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="ATV.tr@SD",ATV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="ATV.tr@SD",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="ATVAlanya.tr@SD",ATV Alanya (1080p)
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="ATVAlanya.tr@SD",ATV Alanya (720p) [Not 24/7]
+http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="BeyazTV.tr@SD",Beyaz TV (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="HaberturkTV.tr@SD",Habertürk TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="KanalD.tr@SD",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="Türk" tvg-id="KanalDDrama.tr@SD",Kanal D Drama (1080p)
+http://8.243.126.131:8000/play/a0mn/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="MedMuzik.tr@SD",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 group-title="Uşaq" tvg-id="MinikaCocuk.tr@SD",Minika Cocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="Uşaq" tvg-id="MinikaCocuk.tr@SD",Minika Cocuk (576p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="NOWTV.tr@SD",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="NOWTV.tr@SD",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTV.tr@SD",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 group-title="Türk" tvg-id="PowerTurkTaptaze.tr@SD",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRT3.tr@SD",TRT 3 (720p)
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTArabi.tr@SD",TRT Arabi (1080p) [Not 24/7]
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTAvaz.tr@SD",TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTBelgesel.tr@SD",TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Uşaq" tvg-id="TRTDiyanetCocuk.tr@SD",TRT Diyanet Çocuk (720p)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTEBAIlkokul.tr@SD",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTEBALise.tr@SD",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="TRTEBA.tr@SD",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="TRTHaber.tr@SD",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTKurdi.tr@SD",TRT Kurdî (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="TRTMuzik.tr@SD",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="TRTMuzik.tr@SD",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="TRTTurk.tr@SD",TRT Türk (720p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTWorld.tr@SD",TRT World (1080p) [Not 24/7]
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türk" tvg-id="StarTV.tr@SD",Star TV (720p)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 group-title="Digər" tvg-id="TRT2.tr@SD",TRT 2 (1440p) [Geo-blocked]
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Uşaq" tvg-id="TRTCocuk.tr@SD",TRT Cocuk (1440p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="TRTSporYildiz.tr@SD",TRT Spor Yildiz (1440p) [Geo-blocked]
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1 group-title="Digər" tvg-id="TRT1.tr@SD",TRT 1 (1440p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Cinema.ru@SD",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Domkino.ru@SD",Dom kino (1080p)
+https://tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Domkino.ru@SD",Dom kino
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="DTRMusic1.ru@HD",DTR Music 1 (720p)
+https://kino-stream.online/hls/DTRMUSIC1.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="FonMusic.ru@SD",Fon Music (1080p)
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="GlazamiTurista.ru@SD",Glazami Turista (576i)
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="HorosheeKino.ru@SD",Horoshee Kino (720p)
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kino24.ru@SD",Kino 24 (720p)
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="KinoTV.ru@HD",Kino TV HD (1080p)
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="KinoHit.ru@SD",KinoHit
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinomix.ru@SD",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinopokaz.ru@SD",Kinopokaz
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinopokaz.ru@HD",Kinopokaz HD (1080p)
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinopremyera.ru@SD",Kinopremyera (1080p)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinopremyera.ru@SD",Kinopremyera
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinoseriya.ru@SD",Kinoseriya (1080p)
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinosvidanie.ru@SD",Kinosvidanie (576p)
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinosvidanie.ru@SD",Kinosvidanie
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="Mir.ru@Kazakhstan",Mir Kazakhstan (576p)
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="MosfilmGoldCollection.ru@SD",Mosfilm Gold Collection (576p)
+http://31.222.235.15/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="Multimuzyka.ru@SD",Mult i muzyka (576p)
+http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
+http://46.32.176.50/muztv/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="MuzTV.ru@SD",Muz-TV
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="MuzykaPervogo.ru@SD",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="NasheLubimoeKino.ru@SD",Nashe Lubimoe Kino (576p)
+http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="NasheNovoeKino.ru@SD",Nashe Novoe Kino (1080p)
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="NasheNovoeKino.ru@SD",Nashe Novoe Kino
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTV.ru@SD",NTV (576p)
+http://94.230.128.107:8080/HTB/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTV.ru@HD",NTV HD (1080p)
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1 group-title="Rus" tvg-id="NTVLaw.ru@SD",NTV Law (576p)
+http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTVMir.ru@SD",NTV Mir (576p)
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTV.ru@SD",NTV SD (576p)
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTVSeries.ru@SD",NTV Series (576p)
+https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTVStyle.ru@SD",NTV Style (576p)
+http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTVVitrina.ru@SD",NTV Vitrina (720p)
+https://cdn.ntv.ru/vitrina/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NTVHit.ru@SD",NTV-Hit (1080p)
+https://cdn-dvr.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="RodnoeKino.ru@SD",Rodnoe Kino
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="Smotrim100Muzhskoe.ru@SD",Smotrim 100% Muzhskoe (720p)
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="Smotrim100Prazdnik.ru@SD",Smotrim 100% Prazdnik (720p)
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="StarCinema.ru@SD",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="StarFamily.ru@SD",Star Family (1080p)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="TV1000RussianKinoGlobal.ru@SD",TV1000 Russian Kino Global
+http://213.91.179.28:8000/play/a0bx
+#EXTINF:-1 group-title="Digər" tvg-id="Vgostyakhuskazki.ru@SD",V gostyakh u skazki (1080p)
+http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="PerviyKrymskiy.ru@SD",Первый Крымский (720p)
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Russia24.ru@SD",Россия 24 (576p) [Not 24/7]
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="STARTAir.ru@SD",START Air (576p)
+http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Evrokino.ru@HD",Evrokino HD (1080p)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="MuzykaLive.ru@SD",Muzyka Live (576p)
+http://stream.mcquack.net/303/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="MuzykaPervogo.ru@SD",Muzyka Pervogo (576p)
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="ClassicMusic.ru@SD",Classic Music (1080p)
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="RussianMusicBox.ru@SD",Russian MusicBox (576p)
+http://stream.mcquack.net/319/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinokomedija.ru@SD",Kinokomedija (576p)
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinosemja.ru@SD",Kinosemja (576p)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="KinoHit.ru@SD",KinoHit (576p)
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="RodnoeKino.ru@SD",Rodnoe Kino (576p)
+http://stream.mcquack.net/242/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="Muzhskoekino.ru@SD",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinouzhas.ru@SD",Kinouzhas (576p)
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="KinoTV.ru@SD",Kino TV SD (576p)
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Kinopokaz.ru@SD",Kinopokaz (576p)
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="Domkino.ru@SD",Dom kino (576p)
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="DomkinoPremium.ru@HD",Dom kino Premium HD (1080p)
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="Nashemuzhskoe.ru@HD",Nashe muzhskoe HD (1080p)
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 group-title="Digər" tvg-id="Vgostyakhuskazki.ru@SD",V gostyakh u skazki (576p)
+http://stream.mcquack.net/93/index.m3u8
+#EXTINF:-1 group-title="Musiqi" tvg-id="FonMusic.ru@SD",Fon Music (576p)
+http://stream.mcquack.net/317/index.m3u8
+#EXTINF:-1 group-title="Kino/Serial" tvg-id="StarciusCinemaTV.ru@SD",Starcius Cinema TV
+http://starcius-cinema.com/12042/index.m3u8
+
+#EXTINF:-1 group-title="Futbol/İdman",İdman TV
+https://www.youtube.com/channel/UCT5ztSm0LfTNkde7wzq0Faw/live
+#EXTINF:-1 group-title="Futbol/İdman",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Futbol/İdman",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
