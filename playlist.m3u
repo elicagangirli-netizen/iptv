@@ -227,10 +227,3 @@ http://stream.mcquack.net/93/index.m3u8
 http://stream.mcquack.net/317/index.m3u8
 #EXTINF:-1 group-title="Kino/Serial" tvg-id="StarciusCinemaTV.ru@SD",Starcius Cinema TV
 http://starcius-cinema.com/12042/index.m3u8
-
-#EXTINF:-1 group-title="Futbol/İdman",İdman TV
-https://www.youtube.com/channel/UCT5ztSm0LfTNkde7wzq0Faw/live
-#EXTINF:-1 group-title="Futbol/İdman",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Futbol/İdman",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
