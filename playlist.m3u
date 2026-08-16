@@ -11,8 +11,6 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 group-title="Azərbaycan" tvg-id="BakuTV.az@SD",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 group-title="Futbol/İdman" tvg-id="CBCSport.az@HD",CBC Sport HD [Geo-blocked]
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 group-title="Azərbaycan" tvg-id="IctimaiTV.az@SD",Ictimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 group-title="Azərbaycan" tvg-id="KapazTV.az@SD",Kapaz TV
@@ -89,8 +87,6 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Uşaq" tvg-id="TRTCocuk.tr@SD",TRT Cocuk (1440p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Digər" tvg-id="TRTSporYildiz.tr@SD",TRT Spor Yildiz (1440p) [Geo-blocked]
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 group-title="Digər" tvg-id="TRT1.tr@SD",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Kino/Serial" tvg-id="Cinema.ru@SD",Cinema
